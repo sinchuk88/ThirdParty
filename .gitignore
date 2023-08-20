@@ -1,0 +1,82 @@
+# ===========================
+# Default Collab Ignore Rules
+# ===========================
+
+# OS Generated
+# ============
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# Visual Studio / MonoDevelop generated
+# =====================================
+[Ee]xported[Oo]bj/
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# Unity generated
+# ===============
+[Oo]bj/
+[Bb]uild
+sysinfo.txt
+*.stackdump
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Tt]est/
+
+# Unity generated2
+# ===============
+[Oo]bj/
+[Bb]uild
+sysinfo.txt
+*.stackdump
+/LegendHunter/[Ll]ibrary/
+/LegendHunter/[Tt]emp/
+/LegendHunter/[Oo]bj/
+/LegendHunter/[Bb]uild/
+/LegendHunter/[Bb]uilds/
+/LegendHunter/[Ll]ogs/
+/LegendHunter/[Uu]ser[Ss]ettings/
+/LegendHunter/[Tt]est/
+*.unitypackage
+*.unitypackage.meta
+
+# MemoryCaptures can get excessive in size.
+# They also could contain extremely sensitive data
+[Mm]emoryCaptures/
+
+*.tmp
+*.aab
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# Packed Addressables
+/LegendHunter/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Temporary auto-generated Android Assets
+/LegendHunter/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/LegendHunter/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# End of https://www.toptal.com/developers/gitignore/api/unity
+
+# 키스토어
+*.keystore
+
+#기타
+.vs
